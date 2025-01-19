@@ -14,7 +14,7 @@ To fit the entire source code into a QR code, I utilized the tool available at [
 
 To view the project, scan the QR code below:
 
-![QR Code](saycheese_qr_code.png)
+<img src="saycheese_qr_code.png" alt="QR Code" width="200" height="200">
 
 **Note:** Use a QR code app to scan it, and if the website doesn't load, try copying the text from the QR code and pasting it into a browser.
 
